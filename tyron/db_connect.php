@@ -6,7 +6,7 @@ $user = "root"; // MySQL username
 
 $pass = ""; // MySQL password (leave blank if none)
 
-$db = "gonzales,tyron_jay_t._db"; // Database name
+$db = "gonzalestyronjayt._db"; // Database name
 
  
 
